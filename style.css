@@ -1,0 +1,88 @@
+* {
+    margin: 1px;
+    border-radius: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+    
+
+.flexivel {
+    display: flex;
+    height: 100%;
+    align-items: center;
+}
+
+.linha1 {
+    padding: 100px;
+    background-color: #D7E8FE;
+    margin: 10px;
+    box-sizing: border-box;
+    height: 30vh;
+}
+
+.fundo {
+    background-color: #D7E8FE;
+    box-sizing: border-box;
+}
+
+.titulo {
+    color: rgb(0, 0, 190);
+    text-align: center;
+    align-content: center;
+}
+
+.imagem {
+    width: 30%;
+    height: 100%;
+}
+
+.imagem img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+}
+
+.Pedidos {
+    padding-right: 27rem;
+    height: 18rem;
+    color: rgb(0, 0, 190);
+}
+
+.Pedidos1 {
+    padding-left: 27rem;
+    height: 45rem;
+    color: rgb(0, 0, 190);
+}
+
+.imgreq {
+    width: 2px;
+    height: 2px; 
+}
+
+.texto {
+    background-color: blue;
+    border-radius: 45px;
+    margin-left: 11rem;
+    margin-right: 10rem;
+    padding-bottom: 2rem;
+}
+
+.texto2 {
+    color: white;
+    margin: 3px;
+    font-size: smaller;
+}
+
+.espaco {
+    padding-right: 600px;
+}
+
+.vendas {
+    
+}
+    
+
+.box3 {
+    background-color: #D7E8FE;
+}
