@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Tela 2</title>
+</head>
+
+<body>
+    <section>
+        <div class="flexivel">
+            
+            <div class="fundo alongarP">
+                
+                <div class="imagem">
+                    <img src="robo.png">
+                </div>
+
+            <div class="flexivel">
+                    <div class="texto">
+                        <h3>Olá, tudo bem?</h3> <br>
+                        <h3>Como posso ajudar hoje?</h3>
+                    </div>
+            </div>
+
+            <div class="fundo alongarS"></div>
+        </div>
+    </section>
+
+    <section>
+        <div class="flexivel">
+            <div class="fundo alongarP">
+
+            </div>
+            <div class="fundo alongarS"></div>
+        </div>
+    </section>
+
+    <section>
+        <div class="flexivel">
+            <div class="fundo alongarP">
+
+            </div>
+            <div class="fundo alongarS"></div>
+        </div>
+    </section>
+</body>
+
+</html>
