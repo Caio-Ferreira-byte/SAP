@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>pagina</title>
+</head>
+<body>
+    <header>
+        <div class="cima"><div class="textocima">Component Customizing /SCMTMS/WDCC_FWD_ORDER, Main Page "$OTR:/SCMTMS/UI_CMN/FORWARDING_ORDER"</div></div>
+        <div class="linhaamarela"></div>
+        <nav class="navbar"><div class="botoes"><button>💾Save</button><button>❌Cancel</button><button>🖋️Edit</button><button>📝Save Draft</button><button>Load Draft</button><button>🔃</button><button>↩️Undo</button><button>↪️Redo</button><button>Check</button></div></nav>
+    </header>
+    <main>
+
+    </main>
+</body>
+</html>
